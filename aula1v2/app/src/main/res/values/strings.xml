@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aula1v2</string>
+    <string name="btn_ola">Ola Mundo</string>
+    <string name="btn_muda">Abre Outra</string>
+</resources>
